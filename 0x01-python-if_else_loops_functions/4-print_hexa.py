@@ -15,5 +15,5 @@ for num in range(0, 98):
         print("{:c}".format(101))
     elif (num == 15):
         print("{:c}".format(102))
-    elif (num >= 16):
-        print("{}".format(num = num - (num % 10))
+    else:
+        print("{}".format(num - (num % 10)))
