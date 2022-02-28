@@ -15,4 +15,3 @@ elif (last == 0):
     print("{} and is 0".format(last))
 else:
     print("{} and is less than 6 and not 0".format(last))
-
