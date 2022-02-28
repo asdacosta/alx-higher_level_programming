@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 for num in range(0, 100):
-    if (num < 10):
-        print("0{:d}, ".format(num), end="")
-    elif:
-        print("{:d}, ".format(num), end="")
+    if (not(num) = 99):
+        print("{:02d}, ".format(num))
+    else:
+        print("{:02d}".format(num))
